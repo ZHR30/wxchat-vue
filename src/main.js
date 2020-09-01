@@ -11,7 +11,8 @@ export default {
   // 这部分相当于原生小程序的 app.json
   config: {
     pages: [
-      '^pages/index/main'
+      'pages/index/main',
+      'pages/test1/main'
     ],
     window: {
       backgroundTextStyle: 'light',
